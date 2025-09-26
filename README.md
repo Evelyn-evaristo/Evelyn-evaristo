@@ -72,15 +72,6 @@ Tenho interesse em **tecnologia, automação e impacto social**, unindo programa
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Evelyn-evaristo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=Evelyn-evaristo&show_icons=true&theme=tokyonight" 
-  />
-
   <img 
       align="left" 
       alt="GitHub Top Langs" 
