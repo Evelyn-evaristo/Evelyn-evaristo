@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou Evelyn Evaristo!
 
-<!--
-**Evelyn-evaristo/Evelyn-evaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática  
+💻 Interessada em **Java, Arduino, Python e Desenvolvimento Web**  
+🌱 Atualmente aprendendo: Java  
+🚀 Objetivo: Desenvolver projetos que unam **tecnologia e impacto social**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que utilizo
+- Java ☕
+- Python 🐍
+- Arduino ⚡
+- MySQL 🗄️
+- HTML, CSS, JavaScript 🌐
+
+---
+
+## 📌 Projetos em destaque
+- [Sistema Bancário em Java](https://github.com/Evelyn-evaristo/SistemaBancario.git) 
+  *Fluxograma + código estruturado com saque, depósito, saldo e extrato*
+
+- [Cantina Escolar Automatizada]  
+  *Integração de Arduino + RFID + MySQL para gestão de refeições escolares*
+
+---
+
+## 📫 Contato
+✉️ [evelyn.l.evaristo@gmail.com]  
+🔗 [https://www.linkedin.com/in/evelyn-evaristo-644813308/]
