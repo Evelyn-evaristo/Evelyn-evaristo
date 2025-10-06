@@ -1,81 +1,41 @@
-# 👩🏻‍💻 Evelyn Evaristo
+👩🏻‍💻 Evelyn Evaristo
 
-**`Estudante de Programação e Desenvolvimento`**
+Programming and Development Student
 
-Me chamo **Evelyn Luanda Geraldo Evaristo**, sou estudante de **Informática** e desenvolvo projetos acadêmicos aplicando conceitos de **Java, Python, Arduino e Banco de Dados**.  
-Tenho interesse em **tecnologia, automação e impacto social**, unindo programação e criatividade para resolver problemas do dia a dia.  
+My name is Evelyn Luanda Geraldo Evaristo, I’m an Information Technology student, and I develop academic projects applying concepts of Java, Python, Arduino, and Databases.
+I’m passionate about technology, automation, and social impact, combining programming and creativity to solve everyday problems.
 
----
+<p align="left"> <a href="https://github.com/Evelyn-evaristo?tab=repositories&sort=stargazers"> <img alt="Total Stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Evelyn-evaristo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" /> </a> <a href="https://github.com/Evelyn-evaristo?tab=followers"> <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Evelyn-evaristo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" /> </a> </p>
+🤖 Languages & Technologies
 
-<p align="left">
-    <a href="https://github.com/Evelyn-evaristo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Evelyn-evaristo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/Evelyn-evaristo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Evelyn-evaristo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img 
-    align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img 
-    align="left" alt="Arduino" title="Arduino" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img 
-    align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img 
-    align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img 
-    align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img 
-    align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Arduino" title="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <br/>
 <br/>
 
----
+📌 Featured Projects
 
-### 📌 Projetos em Destaque
+🏦 Banking System in Java
 
-- [🏦 Sistema Bancário em Java](https://github.com/Evelyn-evaristo/SistemaBancario)  
-  *Fluxograma + código estruturado com saque, depósito, saldo e extrato (projeto acadêmico).*
+Flowchart + structured code including withdraw, deposit, balance, and statement (academic project).
 
-- [🍽️ Cantina Escolar Automatizada](#)  
-  *Integração de Arduino + RFID + MySQL para controle de refeições escolares.*
+🍽️ Automated School Cafeteria
 
----
+Integration of Arduino + RFID + MySQL for school meal control.
 
-### 📫 Contato
-✉️ [evelyn.l.evaristo@gmail.com](mailto:evelyn.l.evaristo@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/evelyn-evaristo-644813308/)  
+📫 Contact
 
----
+✉️ evelyn.l.evaristo@gmail.com
 
-### 📊 Estatísticas
+🔗 LinkedIn
 
-  <img 
-      align="left" 
-      alt="GitHub Top Langs" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-evaristo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
+📊 Statistics
+
+<img align="left" alt="GitHub Top Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-evaristo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6" />
+
 </p>
